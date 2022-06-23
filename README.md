@@ -1,2 +1,2 @@
 # Javascript2
-ZuriTraining
+ZuriTraining - Build a basic arithmetic calculator without a frontend
